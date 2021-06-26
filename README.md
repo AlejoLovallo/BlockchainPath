@@ -11,7 +11,7 @@
 ### Basics
 
 * Function types:
-	*[sc-function-types-I](https://medium.com/@yangnana11/solidity-function-types-4ad4e5de6d56#:~:text=Internal%20functions%20can%20only%20be,context%20of%20the%20current%20contract)
+	* [sc-function-types-I](https://medium.com/@yangnana11/solidity-function-types-4ad4e5de6d56#:~:text=Internal%20functions%20can%20only%20be,context%20of%20the%20current%20contract)
 
 
 ### Advanced
