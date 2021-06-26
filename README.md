@@ -36,8 +36,10 @@
 
 ## Algorand
 
+### Miscellanous
 
-
-
+* Truffle: 
+	* [under the hood migrate](https://medium.com/@blockchain101/demystifying-truffle-migrate-21afbcdf3264)
+	*  	
 
 
