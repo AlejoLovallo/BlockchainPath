@@ -49,6 +49,13 @@
 
 * [Pausable Example Contract](https://fravoll.github.io/solidity-patterns/emergency_stop.html)
 
+
+### Security 
+
+* [Reentracy](https://blockman.medium.com/reentrancy-a-vulnerability-that-causes-your-solidity-smart-contract-to-be-withdrawn-all-money-f4a9f6cdc57)
+
+
+
 **********************************
 
 ## DeFI
