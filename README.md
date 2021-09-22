@@ -77,6 +77,8 @@
 ## RSK
 
 * [Rlogin](https://github.com/wighawag/tutorial-hardhat-deploy)
+* [RSK Swap](https://rskswap.com/docs/v2/protocol-overview/how-rskswap-works)
+* [RSK Swap SC](https://rskswap.com/docs/v2/smart-contract-integration/quick-start/)
 
 
 ## Glossary and technical mix 
