@@ -53,8 +53,7 @@
 ### Security 
 
 * [Reentracy](https://blockman.medium.com/reentrancy-a-vulnerability-that-causes-your-solidity-smart-contract-to-be-withdrawn-all-money-f4a9f6cdc57)
-
-
+* [Reentrancy after Istanbul fork](https://blog.openzeppelin.com/reentrancy-after-istanbul/)
 
 **********************************
 
@@ -81,6 +80,12 @@
 * [RSK Swap SC](https://rskswap.com/docs/v2/smart-contract-integration/quick-start/)
 
 
+## Solana
+
+* [Progamming Solana](https://paulx.dev/blog/2021/01/14/programming-on-solana-an-introduction/)
+* [Solana 101](https://learn.figment.io/tutorials/solana-101)
+
+
 ## Glossary and technical mix 
 
 * [Bear and bull market](https://academy.binance.com/en/glossary/bear-market)
@@ -98,5 +103,7 @@
 * Truffle: 
 	* [under the hood migrate](https://medium.com/@blockchain101/demystifying-truffle-migrate-21afbcdf3264)
 
-
+* Oracles: 
+	* [Why oracles](https://medium.com/iex-ec/why-your-dapp-needs-a-decentralized-oracle-2f2403f9fd7)
+	*  
 
