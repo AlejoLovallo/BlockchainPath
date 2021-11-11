@@ -58,7 +58,9 @@
 ### Gas optimizations 
 
 * [Gas tips](https://mudit.blog/solidity-gas-optimization-tips/)
+* [Gas tips updated](https://blog.polymath.network/solidity-tips-and-tricks-to-save-gas-and-reduce-bytecode-size-c44580b218e6)
 * [Storage is expensive](https://medium.com/geekculture/hitchhikers-guide-to-the-evm-56a3d90212ac)
+* [Stack too deep and solution](https://medium.com/1milliondevs/compilererror-stack-too-deep-try-removing-local-variables-solved-a6bcecc16231)
 
 **********************************
 
@@ -103,7 +105,6 @@
 
 * Hardhat 
 	* [Hardhat-deploy-plugin-tutorial](https://github.com/wighawag/tutorial-hardhat-deploy)
-
 
 * Truffle: 
 	* [under the hood migrate](https://medium.com/@blockchain101/demystifying-truffle-migrate-21afbcdf3264)
