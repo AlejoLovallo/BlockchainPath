@@ -55,6 +55,11 @@
 * [Reentracy](https://blockman.medium.com/reentrancy-a-vulnerability-that-causes-your-solidity-smart-contract-to-be-withdrawn-all-money-f4a9f6cdc57)
 * [Reentrancy after Istanbul fork](https://blog.openzeppelin.com/reentrancy-after-istanbul/)
 
+### Gas optimizations 
+
+* [Gas tips](https://mudit.blog/solidity-gas-optimization-tips/)
+* [Storage is expensive](https://medium.com/geekculture/hitchhikers-guide-to-the-evm-56a3d90212ac)
+
 **********************************
 
 ## DeFI
@@ -105,5 +110,4 @@
 
 * Oracles: 
 	* [Why oracles](https://medium.com/iex-ec/why-your-dapp-needs-a-decentralized-oracle-2f2403f9fd7)
-	*  
 
