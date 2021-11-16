@@ -111,4 +111,4 @@
 
 * Oracles: 
 	* [Why oracles](https://medium.com/iex-ec/why-your-dapp-needs-a-decentralized-oracle-2f2403f9fd7)
-
+	* [MakerDao Medianizer](https://developer.makerdao.com/feeds/)
