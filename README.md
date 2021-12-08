@@ -76,13 +76,10 @@
 
 ### Borrowing and lending
 
-[Compound docs](https://compound.finance/docs)
-
-[Compound - Lending](https://medium.com/compound-finance/supplying-assets-to-the-compound-protocol-ec2cf5df5aa)
-
-[Compound - Borrowing](https://medium.com/compound-finance/borrowing-assets-from-compound-quick-start-guide-f5e69af4b8f4)
-
-[Gemini explanation](https://www.gemini.com/cryptopedia/what-is-compound-and-how-does-it-work#section-the-compound-de-fi-protocol)
+* [Compound docs](https://compound.finance/docs)
+* [Compound - Lending](https://medium.com/compound-finance/supplying-assets-to-the-compound-protocol-ec2cf5df5aa)
+* [Compound - Borrowing](https://medium.com/compound-finance/borrowing-assets-from-compound-quick-start-guide-f5e69af4b8f4)
+* [Gemini explanation](https://www.gemini.com/cryptopedia/what-is-compound-and-how-does-it-work#section-the-compound-de-fi-protocol)
 
 ### Flash loans
 
