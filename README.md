@@ -66,9 +66,32 @@
 
 ## DeFI
 
+### Yield Farming
+
 * [Yield Farming (Es)](https://academy.bit2me.com/que-es-el-yield-farming/)
 * [Yield Farming (En)](https://academy.binance.com/en/articles/what-is-yield-farming-in-decentralized-finance-defi)
+
+### Automated market maker
 * [AMM](https://academy.binance.com/en/articles/what-is-an-automated-market-maker-amm)
+
+### Borrowing and lending
+
+[Compound docs](https://compound.finance/docs)
+
+[Compound - Lending](https://medium.com/compound-finance/supplying-assets-to-the-compound-protocol-ec2cf5df5aa)
+
+[Compound - Borrowing](https://medium.com/compound-finance/borrowing-assets-from-compound-quick-start-guide-f5e69af4b8f4)
+
+[Gemini explanation](https://www.gemini.com/cryptopedia/what-is-compound-and-how-does-it-work#section-the-compound-de-fi-protocol)
+
+### Flash loans
+
+* [Decrypt](https://decrypt.co/resources/what-are-flash-loans-the-defi-lending-phenomenon-explained)
+* [Binance](https://academy.binance.com/en/articles/what-are-flash-loans-in-defi)
+* [Medium Geek Culture](https://medium.com/geekculture/what-is-a-defi-flash-loans-flash-loan-attack-c130c83d9811)
+* [101 Blockchains](https://101blockchains.com/defi-flash-loans/)
+* [AAVE Technical docs](https://docs.aave.com/developers/guides/flash-loans)
+
 * [TVL Tracker](https://defipulse.com/)
 
 
