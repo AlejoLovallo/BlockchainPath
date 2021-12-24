@@ -111,7 +111,16 @@
 
 * [Progamming Solana](https://paulx.dev/blog/2021/01/14/programming-on-solana-an-introduction/)
 * [Solana 101](https://learn.figment.io/tutorials/solana-101)
+* [Solana for technicals](https://2501babe.github.io/posts/solana101.html)
+* []
 
+## Polygon
+
+* 
+
+## Polkadot
+
+* 
 
 ## Glossary and technical mix 
 
