@@ -1,6 +1,7 @@
 # The Blockchain path
 
 * A set of blockchain resources along with some snippets. Developer view. 
+* In memorial of @ajlopez and his repositories of DeFi learning resources. 
 
 *******************
 
