@@ -90,8 +90,16 @@
 * [101 Blockchains](https://101blockchains.com/defi-flash-loans/)
 * [AAVE Technical docs](https://docs.aave.com/developers/guides/flash-loans)
 
+### Oracles
+
+* [Why oracles](https://medium.com/iex-ec/why-your-dapp-needs-a-decentralized-oracle-2f2403f9fd7)
+* [MakerDao Medianizer](https://developer.makerdao.com/feeds/)
+
 * [TVL Tracker](https://defipulse.com/)
 
+**********************
+
+## Other blockchains
 
 ## Algorand
 
@@ -113,7 +121,7 @@
 * [Progamming Solana](https://paulx.dev/blog/2021/01/14/programming-on-solana-an-introduction/)
 * [Solana 101](https://learn.figment.io/tutorials/solana-101)
 * [Solana for technicals](https://2501babe.github.io/posts/solana101.html)
-* []
+* [Solana cookbook](https://solanacookbook.com/#contributing)
 
 ## Polygon
 
@@ -131,14 +139,23 @@
 * [ERC721 detailed](https://medium.com/crypto-currently/the-anatomy-of-erc721-e9db77abfc24#:~:text=Ethereum%20Request%20for%20Comments%20721,the%20tokens%20are%20non%2Dfungible%20)
 * [Randomness](https://betterprogramming.pub/how-to-generate-truly-random-numbers-in-solidity-and-blockchain-9ced6472dbdf)
 
-### Miscellanous
+### Frameworks and utilities
 
 * Hardhat 
 	* [Hardhat-deploy-plugin-tutorial](https://github.com/wighawag/tutorial-hardhat-deploy)
 
+* Anchor 
+	* [Official docs](https://project-serum.github.io/anchor/getting-started/introduction.html)
+	* [Anchor simplified for newcomers](https://hashnode.com/post/anchor-framework-simplified-for-new-developers-in-solana-cktyttmwf09h6bps189wxcngd)
+
+* Solana-cli
+	* [Installation](https://docs.solana.com/cli/install-solana-cli-tools)
+	* [Official usage](https://docs.solana.com/cli/conventions)
+	* [Basic operations](https://medium.com/@lianxiongdi/solana-development-1-basic-operation-of-solana-cli-dcf156137e6)
+	* [Create Token using cli](https://medium.com/@lianxiongdi/solana-development-2-create-your-own-token-bfd4e53c3840)
+
 * Truffle: 
 	* [under the hood migrate](https://medium.com/@blockchain101/demystifying-truffle-migrate-21afbcdf3264)
 
-* Oracles: 
-	* [Why oracles](https://medium.com/iex-ec/why-your-dapp-needs-a-decentralized-oracle-2f2403f9fd7)
-	* [MakerDao Medianizer](https://developer.makerdao.com/feeds/)
+* Ganache:
+
