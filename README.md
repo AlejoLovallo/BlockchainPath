@@ -5,6 +5,29 @@
 
 *******************
 
+- [The Blockchain path](#the-blockchain-path)
+  * [Smart Contracts](#smart-contracts)
+    + [Basics](#basics)
+    + [Advanced](#advanced)
+    + [Security](#security)
+    + [Gas optimizations](#gas-optimizations)
+    + [EIPs](#eips)
+  * [DeFI](#defi)
+    + [Yield Farming](#yield-farming)
+    + [Automated market maker](#automated-market-maker)
+    + [Borrowing and lending](#borrowing-and-lending)
+    + [Flash loans](#flash-loans)
+    + [Oracles](#oracles)
+  * [Other blockchains](#other-blockchains)
+  * [Algorand](#algorand)
+  * [RSK](#rsk)
+  * [Solana](#solana)
+  * [Polygon](#polygon)
+  * [Polkadot](#polkadot)
+  * [Glossary and technical mix](#glossary-and-technical-mix)
+    + [Frameworks and utilities](#frameworks-and-utilities)
+
+*******************
 ## Smart Contracts
 
 ### Basics
