@@ -63,6 +63,20 @@
 * [Storage is expensive](https://medium.com/geekculture/hitchhikers-guide-to-the-evm-56a3d90212ac)
 * [Stack too deep and solution](https://medium.com/1milliondevs/compilererror-stack-too-deep-try-removing-local-variables-solved-a6bcecc16231)
 
+### EIPs
+
+* EIP-155: Chain ID 
+* EIP-712: Standard for typed message signing
+	* https://medium.com/metamask/eip712-is-coming-what-to-expect-and-how-to-use-it-bb92fd1a7a26
+	* https://medium.com/coinmonks/eip712-a-full-stack-example-e12185b03d54
+	* https://dev.to/zemse/ethersjs-signing-eip712-typed-structs-2ph8
+* EIP-1167: Proxy Contract
+	* https://eips.ethereum.org/EIPS/eip-1167
+	* https://github.com/optionality/clone-factory/blob/master/contracts/CloneFactory.sol
+* EIP-1344: Chain ID Opcode
+* EIP-1559: Gas Fee calculations
+	* https://www.blocknative.com/blog/eip-1559-fees
+
 **********************************
 
 ## DeFI
