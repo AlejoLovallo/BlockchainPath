@@ -159,6 +159,7 @@
 * [Solana 101](https://learn.figment.io/tutorials/solana-101)
 * [Solana for technicals](https://2501babe.github.io/posts/solana101.html)
 * [Solana cookbook](https://solanacookbook.com/#contributing)
+* [Solana transactions in depth](https://medium.com/@asmiller1989/solana-transactions-in-depth-1f7f7fe06ac2)
 
 ## Polygon
 
