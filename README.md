@@ -155,19 +155,23 @@
 
 ## Solana
 
+### Basic
+
 * [Progamming Solana](https://paulx.dev/blog/2021/01/14/programming-on-solana-an-introduction/)
 * [Solana 101](https://learn.figment.io/tutorials/solana-101)
 * [Solana for technicals](https://2501babe.github.io/posts/solana101.html)
 * [Solana cookbook](https://solanacookbook.com/#contributing)
 * [Solana transactions in depth](https://medium.com/@asmiller1989/solana-transactions-in-depth-1f7f7fe06ac2)
 
-## Polygon
+### Native programs
 
-* 
+* [Explanation](https://medium.com/coinmonks/solana-internals-part-1-what-are-the-native-on-chain-programs-and-why-do-they-matter-61c981483e86)
 
-## Polkadot
+### SPL TOKEN
 
-* 
+* [CLI](https://medium.com/@kaloliya/step-by-step-guide-for-creating-a-token-on-solana-network-68d3b890ca84)
+* [Code explnation along with example](https://medium.com/credix/building-an-spl-token-faucet-on-solana-2b8a07d364ff)
+* [Technical explanation](https://medium.com/credix/building-an-spl-token-faucet-on-solana-2b8a07d364ff)
 
 ## Glossary and technical mix 
 
