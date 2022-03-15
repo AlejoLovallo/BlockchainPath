@@ -182,6 +182,9 @@
 * [ERC20 Tutorial](https://medium.com/crypto-currently/the-anatomy-of-erc721-e9db77abfc24#:~:text=Ethereum%20Request%20for%20Comments%20721,the%20tokens%20are%20non%2Dfungible%20)
 * [ERC721 detailed](https://medium.com/crypto-currently/the-anatomy-of-erc721-e9db77abfc24#:~:text=Ethereum%20Request%20for%20Comments%20721,the%20tokens%20are%20non%2Dfungible%20)
 * [Randomness](https://betterprogramming.pub/how-to-generate-truly-random-numbers-in-solidity-and-blockchain-9ced6472dbdf)
+* IFPS
+	* 1
+
 
 ### Frameworks and utilities
 
@@ -191,6 +194,7 @@
 * Anchor 
 	* [Official docs](https://project-serum.github.io/anchor/getting-started/introduction.html)
 	* [Anchor simplified for newcomers](https://hashnode.com/post/anchor-framework-simplified-for-new-developers-in-solana-cktyttmwf09h6bps189wxcngd)
+	* [Contexts, PDAs and seeds](https://2501babe.github.io/posts/anchor101.html)
 
 * Solana-cli
 	* [Installation](https://docs.solana.com/cli/install-solana-cli-tools)
