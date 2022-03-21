@@ -182,8 +182,10 @@
 * [ERC20 Tutorial](https://medium.com/crypto-currently/the-anatomy-of-erc721-e9db77abfc24#:~:text=Ethereum%20Request%20for%20Comments%20721,the%20tokens%20are%20non%2Dfungible%20)
 * [ERC721 detailed](https://medium.com/crypto-currently/the-anatomy-of-erc721-e9db77abfc24#:~:text=Ethereum%20Request%20for%20Comments%20721,the%20tokens%20are%20non%2Dfungible%20)
 * [Randomness](https://betterprogramming.pub/how-to-generate-truly-random-numbers-in-solidity-and-blockchain-9ced6472dbdf)
-* IFPS
-	* 1
+* [Vanity addresses](https://academy.bit2me.com/en/what-is-a-vanity-address/#:~:text=Vanity%20addresses%2C%20or%20vanity%20addresses,up%20the%20security%20they%20provide.)
+* IPFS
+	* [Official](https://ipfs.io/)
+	* [Hands on tutorial](https://medium.com/coinmonks/a-hands-on-introduction-to-ipfs-ee65b594937)
 
 
 ### Frameworks and utilities
