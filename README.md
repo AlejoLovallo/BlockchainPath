@@ -193,6 +193,10 @@
 * Hardhat 
 	* [Hardhat-deploy-plugin-tutorial](https://github.com/wighawag/tutorial-hardhat-deploy)
 
+* TheGraph
+	* [Official](https://thegraph.com/docs/en/developer/quick-start/)
+	* [Celo smart contracts subgraphs](https://learn.figment.io/tutorials/celo-subgraphs)
+
 * Anchor 
 	* [Official docs](https://project-serum.github.io/anchor/getting-started/introduction.html)
 	* [Anchor simplified for newcomers](https://hashnode.com/post/anchor-framework-simplified-for-new-developers-in-solana-cktyttmwf09h6bps189wxcngd)
