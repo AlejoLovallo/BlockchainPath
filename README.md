@@ -148,6 +148,13 @@
 * [Teal Guidelines](https://developer.algorand.org/docs/features/asc1/stateful/)
 * [PyTeal overview](https://developer.algorand.org/docs/features/asc1/teal/pyteal/)
 
+## Cosmos
+
+* [IBC-Protocol](https://ibcprotocol.org/)
+* [SDK](https://docs.cosmos.network/v0.44/)
+* [Starport](https://docs.starport.com/)
+* [Cosmwasm](https://cosmwasm.com/)
+
 ## RSK
 
 * [Rlogin](https://github.com/wighawag/tutorial-hardhat-deploy)
