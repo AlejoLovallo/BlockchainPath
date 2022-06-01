@@ -22,6 +22,7 @@
     + [Oracles](#oracles)
   * [Other blockchains](#other-blockchains)
     + [Algorand](#algorand)
+    + [Cosmos](#cosmos) 
     + [RSK](#rsk)
     + [Solana](#solana)
     + [Polygon](#polygon)
@@ -154,6 +155,10 @@
 * [SDK](https://docs.cosmos.network/v0.44/)
 * [Starport](https://docs.starport.com/)
 * [Cosmwasm](https://cosmwasm.com/)
+	* [Contract semantics](https://docs.cosmwasm.com/docs/1.0/smart-contracts/contract-semantics)
+	* [Contract analysis](https://docs.cosmwasm.com/tutorials/simple-option/develop)
+	* [Anatomy of smart contract](https://docs.cosmwasm.com/dev-academy/develop-smart-contract/intro)
+	* [Cosmwasm for developers](https://blog.cosmos.network/cosmwasm-for-developers-7640ee38430f)
 
 ## RSK
 
