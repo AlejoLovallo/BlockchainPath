@@ -187,6 +187,11 @@
 * [Code explnation along with example](https://medium.com/credix/building-an-spl-token-faucet-on-solana-2b8a07d364ff)
 * [Technical explanation](https://medium.com/credix/building-an-spl-token-faucet-on-solana-2b8a07d364ff)
 
+**********************
+
+## Zero knowledge
+
+
 ## Glossary and technical mix 
 
 * [Bear and bull market](https://academy.binance.com/en/glossary/bear-market)
