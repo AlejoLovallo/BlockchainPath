@@ -102,6 +102,10 @@
 * EIP-1344: Chain ID Opcode
 * EIP-1559: Gas Fee calculations
 	* https://www.blocknative.com/blog/eip-1559-fees
+* EIP-777: Enhaced ERC20 tokens
+	* https://eips.ethereum.org/EIPS/eip-777
+* EIP-4626: Tokenized Vaults
+* EIP-2981: NFT Royalties
 
 **********************************
 
@@ -137,6 +141,23 @@
 
 * [TVL Tracker](https://defipulse.com/)
 
+### Vaults
+
+* [Vaults explained](https://blog.apy.vision/defi-vaults/)
+* [yDAI exploit](https://swissborg.com/blog/flash-loan-attack)
+
+### Yield aggregators
+
+* [Verso](https://verso.finance/the-mechanics-of-yield-farming-and-yield-aggregators/#:~:text=Yield%20farming%20aggregators%20essentially%20automate,maximizing%20yields%20via%20auto%20compounding.)
+* [Eqifi](https://eqifi.medium.com/defi-explained-what-is-a-yield-aggregator-e611f0cf969b)
+* [Stakingbits](https://medium.com/stakingbits/what-is-yield-farming-and-a-yield-aggregator-8161e7a74b43)
+* [Hackernoon](https://hackernoon.com/how-do-yield-aggregators-work)
+
+### NFT Staking
+
+* [Moonpay thorough doc](https://www.moonpay.com/nft/nft-staking)
+* [Example repo using ERC1155](https://github.com/karangorania/nft-staking)
+
 **********************
 
 ## Other blockchains
@@ -159,6 +180,8 @@
 	* [Contract analysis](https://docs.cosmwasm.com/tutorials/simple-option/develop)
 	* [Anatomy of smart contract](https://docs.cosmwasm.com/dev-academy/develop-smart-contract/intro)
 	* [Cosmwasm for developers](https://blog.cosmos.network/cosmwasm-for-developers-7640ee38430f)
+
+## Near
 
 ## RSK
 
@@ -211,7 +234,11 @@
 	* [Hardhat-deploy-plugin-tutorial](https://github.com/wighawag/tutorial-hardhat-deploy)
 
 * TheGraph
-	* [Official](https://thegraph.com/docs/en/developer/quick-start/)
+	* [Official-QS](https://thegraph.com/docs/en/developer/quick-start/)
+	* [Thorough documentation](https://thegraph.com/docs/en/developing/creating-a-subgraph/)
+	* [Mappings](https://thegraph.com/docs/en/developing/creating-a-subgraph/#writing-mappings)
+	* [Deploying subgraph](https://medium.com/xord/the-graph-network-part-ii-deploying-the-subgraph-xord-a80b454d96d2)
+	* [Unit testing](https://thegraph.com/docs/en/developing/unit-testing-framework/)
 	* [Celo smart contracts subgraphs](https://learn.figment.io/tutorials/celo-subgraphs)
 
 * Anchor 
@@ -227,6 +254,3 @@
 
 * Truffle: 
 	* [under the hood migrate](https://medium.com/@blockchain101/demystifying-truffle-migrate-21afbcdf3264)
-
-* Ganache:
-
