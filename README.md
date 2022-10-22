@@ -7,7 +7,34 @@
 
 *******************
 
-[TOC]
+- [The Blockchain path](#the-blockchain-path)
+  * [Smart Contracts](#smart-contracts)
+    + [Basics](#basics)
+    + [Advanced](#advanced)
+    + [Security](#security)
+    + [Gas optimizations](#gas-optimizations)
+    + [EIPs](#eips)
+  * [DeFI](#defi)
+    + [Yield Farming](#yield-farming)
+    + [Automated market maker](#automated-market-maker)
+    + [Borrowing and lending](#borrowing-and-lending)
+    + [Flash loans](#flash-loans)
+    + [Oracles](#oracles)
+    + [Vaults](#vaults)
+    + [Yield aggregators](#yield-aggregators)
+    + [NFT Staking](#nft-staking)
+  * [Other blockchains](#other-blockchains)
+  * [Algorand](#algorand)
+  * [Cosmos](#cosmos)
+  * [Near](#near)
+  * [RSK](#rsk)
+  * [Solana](#solana)
+    + [Basic](#basic)
+    + [Native programs](#native-programs)
+    + [SPL TOKEN](#spl-token)
+  * [Zero knowledge](#zero-knowledge)
+  * [Glossary and technical mix](#glossary-and-technical-mix)
+    + [Frameworks and utilities](#frameworks-and-utilities)
 
 *******************
 ## Smart Contracts
@@ -241,7 +268,8 @@ Implementations
 	* [Celo smart contracts subgraphs](https://learn.figment.io/tutorials/celo-subgraphs)
 
 * Anchor 
-	* [Official docs](https://project-serum.github.io/anchor/getting-started/introduction.html)
+	* [Official docs](https://www.anchor-lang.com/l)
+        * [Repo](https://github.com/coral-xyz/anchor)
 	* [Anchor simplified for newcomers](https://hashnode.com/post/anchor-framework-simplified-for-new-developers-in-solana-cktyttmwf09h6bps189wxcngd)
 	* [Contexts, PDAs and seeds](https://2501babe.github.io/posts/anchor101.html)
 
