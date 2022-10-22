@@ -7,28 +7,7 @@
 
 *******************
 
-- [The Blockchain path](#the-blockchain-path)
-  * [Smart Contracts](#smart-contracts)
-    + [Basics](#basics)
-    + [Advanced](#advanced)
-    + [Security](#security)
-    + [Gas optimizations](#gas-optimizations)
-    + [EIPs](#eips)
-  * [DeFI](#defi)
-    + [Yield Farming](#yield-farming)
-    + [Automated market maker](#automated-market-maker)
-    + [Borrowing and lending](#borrowing-and-lending)
-    + [Flash loans](#flash-loans)
-    + [Oracles](#oracles)
-  * [Other blockchains](#other-blockchains)
-    + [Algorand](#algorand)
-    + [Cosmos](#cosmos) 
-    + [RSK](#rsk)
-    + [Solana](#solana)
-    + [Polygon](#polygon)
-    + [Polkadot](#polkadot)
-  * [Glossary and technical mix](#glossary-and-technical-mix)
-    + [Frameworks and utilities](#frameworks-and-utilities)
+[TOC]
 
 *******************
 ## Smart Contracts
@@ -213,6 +192,26 @@
 **********************
 
 ## Zero knowledge
+
+More formal: 
+
+* [Wikipedia](https://en.wikipedia.org/wiki/Zero-knowledge_proof)
+* [Zcash](https://z.cash/technology/zksnarks/)
+* [Intro with examples](https://media.consensys.net/introduction-to-zksnarks-with-examples-3283b554fc3b)
+* [Optimistic vs Rollup](https://blog.matter-labs.io/optimistic-vs-zk-rollup-deep-dive-ea141e71e075)
+
+Math ones: 
+
+* [Under the hood by Vitalik](https://medium.com/@VitalikButerin/zk-snarks-under-the-hood-b33151a013f6)
+* [Decentriq](https://blog.decentriq.com/zk-snarks-primer-part-one/)
+* [Mix with quantum computers](https://medium.com/coinmonks/zk-starks-create-verifiable-trust-even-against-quantum-computers-dd9c6a2bb13d)
+* [Coinbase](https://blog.coinbase.com/zksnarks-and-cryptographic-accumulators-f840da0b61c6)
+
+Implementations
+
+* [Zokrates](https://zokrates.github.io/introduction.html)
+* [ZkSync](https://blog.matter-labs.io/introducing-zk-sync-the-missing-link-to-mass-adoption-of-ethereum-14c9cea83f58)
+* [Circom](https://docs.circom.io/background/background/)
 
 
 ## Glossary and technical mix 
