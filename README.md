@@ -74,7 +74,7 @@
 
 * [Bytes I (official doc)](https://www.tutorialspoint.com/solidity/solidity_strings.htm)
 * [Bytes II (old post)](https://medium.com/@libertylocked/what-are-abi-encoding-functions-in-solidity-0-4-24-c1a90b5ddce8)
-* [Bytes III (more complete)](https://docs.soliditylang.org/en/latest/contracts.html#function-overriding)
+* [Bytes III (more complete)](https://docs.soliditylang.org/en/latest/internals/layout_in_storage.html#bytes-and-string)
 
 * [Abstract vs Interfaces](https://medium.com/upstate-interactive/solidity-how-to-know-when-to-use-abstract-contracts-vs-interfaces-874cab860c56)
 
